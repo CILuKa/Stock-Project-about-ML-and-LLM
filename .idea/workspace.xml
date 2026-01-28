@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5c33cb1-64ad-4c68-9cc6-20adbdef79c8" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/lgb_model.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lgb_model.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/limit.csv" beforeDir="false" afterPath="$PROJECT_DIR$/limit.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/中线股选股策略1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/中线股选股策略1.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2szXTL25vSvcHS86BnGHBymNvnw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.CountLimit.executor": "Run",
+    "Python.DataDowload (1).executor": "Run",
+    "Python.DataDowload.executor": "Run",
+    "Python.DataDowload11.executor": "Run",
+    "Python.MakeLabel.executor": "Run",
+    "Python.My_hand.executor": "Run",
+    "Python.addition (1).executor": "Run",
+    "Python.addition.executor": "Run",
+    "Python.autoclick.executor": "Run",
+    "Python.change_pct.executor": "Run",
+    "Python.col_remake.executor": "Run",
+    "Python.csv_change_name.executor": "Run",
+    "Python.csv_remake.executor": "Run",
+    "Python.cv_home.executor": "Run",
+    "Python.dashuju.executor": "Run",
+    "Python.dashuju2.executor": "Run",
+    "Python.dashuju3.executor": "Run",
+    "Python.data_deal.executor": "Run",
+    "Python.demo.executor": "Run",
+    "Python.netwarm.executor": "Run",
+    "Python.paste.executor": "Run",
+    "Python.remove_samecol.executor": "Run",
+    "Python.tempera.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.total.executor": "Run",
+    "Python.ttyrec.executor": "Run",
+    "Python.voice2text.executor": "Run",
+    "Python.voice2text_whisper.executor": "Run",
+    "Python.xhtml_deal.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/py111/news_analyzer-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.JavaScript",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\py111\stock_market-master" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\py111\stock_market-master\news_factory" />
+      <recent name="D:\py111\stock_market-master" />
+      <recent name="D:\py111\stock_market-master\tookit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.DataDowload11">
+    <configuration name="DataDowload" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stock_market-master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataDowload.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DataDowload11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stock_market-master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataDowload11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MakeLabel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stock_market-master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MakeLabel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="voice2text" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stock_market-master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tookit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tookit/voice2text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="voice2text_whisper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stock_market-master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tookit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tookit/voice2text_whisper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.DataDowload11" />
+        <item itemvalue="Python.MakeLabel" />
+        <item itemvalue="Python.DataDowload" />
+        <item itemvalue="Python.voice2text_whisper" />
+        <item itemvalue="Python.voice2text" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
+        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e5c33cb1-64ad-4c68-9cc6-20adbdef79c8" name="更改" comment="" />
+      <created>1739459383899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739459383899</updated>
+      <workItem from="1739461562817" duration="931000" />
+      <workItem from="1739528150494" duration="5721000" />
+      <workItem from="1739792725960" duration="6300000" />
+      <workItem from="1739867712868" duration="707000" />
+      <workItem from="1740230750592" duration="505000" />
+      <workItem from="1740231741571" duration="7588000" />
+      <workItem from="1740284539644" duration="71000" />
+      <workItem from="1740284822277" duration="17333000" />
+      <workItem from="1741359077832" duration="2852000" />
+      <workItem from="1741393368328" duration="1647000" />
+      <workItem from="1741533366273" duration="3057000" />
+      <workItem from="1741623386978" duration="1928000" />
+      <workItem from="1741671247746" duration="3258000" />
+      <workItem from="1741744011324" duration="1182000" />
+      <workItem from="1741758959932" duration="10563000" />
+      <workItem from="1741826645817" duration="2528000" />
+      <workItem from="1741872908392" duration="2563000" />
+      <workItem from="1741925769177" duration="2535000" />
+      <workItem from="1741930527787" duration="9430000" />
+      <workItem from="1741945711048" duration="8454000" />
+      <workItem from="1741963569021" duration="2992000" />
+      <workItem from="1742007774962" duration="8582000" />
+      <workItem from="1742108472748" duration="4486000" />
+      <workItem from="1742212558827" duration="9439000" />
+      <workItem from="1742265245857" duration="14680000" />
+      <workItem from="1742346422542" duration="1210000" />
+      <workItem from="1742373864594" duration="10237000" />
+      <workItem from="1742534532337" duration="1319000" />
+      <workItem from="1742624513373" duration="14087000" />
+      <workItem from="1742690194998" duration="13312000" />
+      <workItem from="1743001044622" duration="4066000" />
+      <workItem from="1743075772612" duration="4815000" />
+      <workItem from="1743148510011" duration="608000" />
+      <workItem from="1743152407911" duration="714000" />
+      <workItem from="1743416843844" duration="5256000" />
+      <workItem from="1743424525957" duration="223000" />
+      <workItem from="1743424813583" duration="8227000" />
+      <workItem from="1743503843121" duration="21365000" />
+      <workItem from="1743571281858" duration="17901000" />
+      <workItem from="1743675835770" duration="5240000" />
+      <workItem from="1743684627845" duration="13110000" />
+      <workItem from="1743754894156" duration="11073000" />
+      <workItem from="1743834405556" duration="616000" />
+      <workItem from="1743925548270" duration="3113000" />
+      <workItem from="1744024220076" duration="4695000" />
+      <workItem from="1744079879494" duration="1269000" />
+      <workItem from="1744194716948" duration="4247000" />
+      <workItem from="1744280022561" duration="4966000" />
+      <workItem from="1744296190535" duration="2559000" />
+      <workItem from="1744357157005" duration="3405000" />
+      <workItem from="1744547907755" duration="3675000" />
+      <workItem from="1744618825023" duration="9996000" />
+      <workItem from="1744676835255" duration="74000" />
+      <workItem from="1744693186778" duration="15546000" />
+      <workItem from="1744739590313" duration="1721000" />
+      <workItem from="1744766721598" duration="2551000" />
+      <workItem from="1744770055372" duration="3007000" />
+      <workItem from="1744778996196" duration="12281000" />
+      <workItem from="1744865075186" duration="2366000" />
+      <workItem from="1744869634890" duration="3141000" />
+      <workItem from="1744876045108" duration="6185000" />
+      <workItem from="1744886035051" duration="6586000" />
+      <workItem from="1744909316434" duration="46000" />
+      <workItem from="1744951983966" duration="1393000" />
+      <workItem from="1745078518800" duration="3916000" />
+      <workItem from="1745163553983" duration="221000" />
+      <workItem from="1745163831806" duration="2319000" />
+      <workItem from="1745214648244" duration="1264000" />
+      <workItem from="1745222424219" duration="1950000" />
+      <workItem from="1745328999421" duration="1874000" />
+      <workItem from="1745548877832" duration="3230000" />
+      <workItem from="1745561190206" duration="2710000" />
+      <workItem from="1745585802410" duration="971000" />
+      <workItem from="1745593265360" duration="1178000" />
+      <workItem from="1745936174436" duration="1189000" />
+      <workItem from="1746670650041" duration="9732000" />
+      <workItem from="1746771713911" duration="6636000" />
+      <workItem from="1746784513898" duration="5288000" />
+      <workItem from="1747038753309" duration="2550000" />
+      <workItem from="1747126078297" duration="916000" />
+      <workItem from="1747140123958" duration="21014000" />
+      <workItem from="1747220231811" duration="3337000" />
+      <workItem from="1747233010651" duration="3656000" />
+      <workItem from="1747713760786" duration="631000" />
+      <workItem from="1747722548982" duration="1168000" />
+      <workItem from="1747833171021" duration="1119000" />
+      <workItem from="1747912448223" duration="2156000" />
+      <workItem from="1747924481002" duration="2940000" />
+      <workItem from="1747940901503" duration="618000" />
+      <workItem from="1748066795605" duration="2088000" />
+      <workItem from="1748238831369" duration="1385000" />
+      <workItem from="1748306551831" duration="598000" />
+      <workItem from="1748314977387" duration="2877000" />
+      <workItem from="1748393393428" duration="596000" />
+      <workItem from="1748565841437" duration="363000" />
+      <workItem from="1748566565925" duration="1863000" />
+      <workItem from="1748592941668" duration="636000" />
+      <workItem from="1749201988077" duration="981000" />
+      <workItem from="1750388070074" duration="665000" />
+      <workItem from="1750566757624" duration="396000" />
+      <workItem from="1750664068449" duration="607000" />
+      <workItem from="1750763597509" duration="1280000" />
+      <workItem from="1757568792066" duration="1608000" />
+      <workItem from="1757571265708" duration="2273000" />
+      <workItem from="1768834354975" duration="2710000" />
+      <workItem from="1768837573785" duration="1864000" />
+      <workItem from="1768872861482" duration="1164000" />
+      <workItem from="1768877820281" duration="6947000" />
+      <workItem from="1769362053364" duration="1259000" />
+      <workItem from="1769363340779" duration="1976000" />
+      <workItem from="1769436438186" duration="3531000" />
+      <workItem from="1769449493897" duration="1856000" />
+      <workItem from="1769509080082" duration="9293000" />
+      <workItem from="1769566809736" duration="603000" />
+      <workItem from="1769595050969" duration="5818000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tookit/20226434-刘博扬/cv_home.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/stock_market_master$xhtml_deal.coverage" NAME="xhtml_deal 覆盖结果" MODIFIED="1747913239239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tookit" />
+    <SUITE FILE_PATH="coverage/stock_market_master$voice2text.coverage" NAME="voice2text 覆盖结果" MODIFIED="1757571520145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tookit" />
+    <SUITE FILE_PATH="coverage/stock_market_master$demo.coverage" NAME="demo 覆盖结果" MODIFIED="1739801322664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LSTM或多个模型实战" />
+    <SUITE FILE_PATH="coverage/stock_market_master$csv_change_name.coverage" NAME="csv_change_name 覆盖结果" MODIFIED="1742268685865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/超短策略（壳子代码）" />
+    <SUITE FILE_PATH="coverage/stock_market_master$total.coverage" NAME="total 覆盖结果" MODIFIED="1747147652959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stock_market_master$data_deal.coverage" NAME="data_deal 覆盖结果" MODIFIED="1747912724473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tookit" />
+    <SUITE FILE_PATH="coverage/stock_market_master$remove_samecol.coverage" NAME="remove_samecol 覆盖结果" MODIFIED="1742226194862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/超短策略（壳子代码）" />
+    <SUITE FILE_PATH="coverage/stock_market_master$addition.coverage" NAME="addition 覆盖结果" MODIFIED="1747233661075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stock_market_master$cv_home.coverage" NAME="cv_home 覆盖结果" MODIFIED="1745330202474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tookit" />
+    <SUITE FILE_PATH="coverage/stock_market_master$col_remake.coverage" NAME="col_remake 覆盖结果" MODIFIED="1743001225427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tookit" />
+    <SUITE FILE_PATH="coverage/stock_market_master$CountLimit.coverage" NAME="CountLimit 覆盖结果" MODIFIED="1747156862391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stock_market_master$autoclick.coverage" NAME="autoclick 覆盖结果" MODIFIED="1745936737552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tookit" />
+    <SUITE FILE_PATH="coverage/stock_market_master$My_hand.coverage" NAME="My_hand 覆盖结果" MODIFIED="1748566952024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tookit" />
+    <SUITE FILE_PATH="coverage/stock_market_master$tempera.coverage" NAME="tempera 覆盖结果" MODIFIED="1744740799147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tookit" />
+    <SUITE FILE_PATH="coverage/stock_market_master$paste.coverage" NAME="paste 覆盖结果" MODIFIED="1747940911867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tookit" />
+    <SUITE FILE_PATH="coverage/stock_market_master$dashuju3.coverage" NAME="dashuju3 覆盖结果" MODIFIED="1744952058215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nlp" />
+    <SUITE FILE_PATH="coverage/stock_market_master$addition__1_.coverage" NAME="addition (1) 覆盖结果" MODIFIED="1744725073908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stock_market_master$DataDowload11.coverage" NAME="DataDowload11 覆盖结果" MODIFIED="1769595158591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stock_market_master$DataDowload__1_.coverage" NAME="DataDowload (1) 覆盖结果" MODIFIED="1741945835116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stock_market_master$DataDowload.coverage" NAME="DataDowload 覆盖结果" MODIFIED="1768835463375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stock_market_master$netwarm.coverage" NAME="netwarm 覆盖结果" MODIFIED="1745552205723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tookit" />
+    <SUITE FILE_PATH="coverage/stock_market_master$voice2text_whisper.coverage" NAME="voice2text_whisper 覆盖结果" MODIFIED="1757572167440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tookit" />
+    <SUITE FILE_PATH="coverage/stock_market_master$csv_remake.coverage" NAME="csv_remake 覆盖结果" MODIFIED="1741964888580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/超短策略（壳子代码）" />
+    <SUITE FILE_PATH="coverage/stock_market_master$change_pct.coverage" NAME="change_pct 覆盖结果" MODIFIED="1742221857744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/超短策略（壳子代码）" />
+    <SUITE FILE_PATH="coverage/stock_market_master$ttyrec.coverage" NAME="ttyrec 覆盖结果" MODIFIED="1745563747377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tookit" />
+    <SUITE FILE_PATH="coverage/stock_market_master$MakeLabel.coverage" NAME="MakeLabel 覆盖结果" MODIFIED="1768889313510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stock_market_master$dashuju.coverage" NAME="dashuju 覆盖结果" MODIFIED="1744952154435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nlp" />
+    <SUITE FILE_PATH="coverage/stock_market_master$test.coverage" NAME="test 覆盖结果" MODIFIED="1747220256264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tookit" />
+    <SUITE FILE_PATH="coverage/stock_market_master$dashuju2.coverage" NAME="dashuju2 覆盖结果" MODIFIED="1744879864498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nlp" />
+  </component>
+</project>
