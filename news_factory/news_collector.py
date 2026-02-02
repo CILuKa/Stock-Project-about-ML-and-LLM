@@ -14,3 +14,6 @@ this script is a tool to collect news about stock and the relate policies about 
 
 2.每日的或每一段时间的自动更新
 """
+
+from Collect_and_Storage.Collect import RSSCollector
+from Collect_and_Storage.Storage import NewsStorage

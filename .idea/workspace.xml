@@ -6,9 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e5c33cb1-64ad-4c68-9cc6-20adbdef79c8" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSTM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LSTM.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lgb_model.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lgb_model.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/limit.csv" beforeDir="false" afterPath="$PROJECT_DIR$/limit.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news_factory/news_analyzer.py" beforeDir="false" afterPath="$PROJECT_DIR$/news_factory/news_analyzer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news_factory/news_collector.py" beforeDir="false" afterPath="$PROJECT_DIR$/news_factory/news_collector.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/中线股选股策略1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/中线股选股策略1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,52 +49,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.CountLimit.executor": "Run",
-    "Python.DataDowload (1).executor": "Run",
-    "Python.DataDowload.executor": "Run",
-    "Python.DataDowload11.executor": "Run",
-    "Python.MakeLabel.executor": "Run",
-    "Python.My_hand.executor": "Run",
-    "Python.addition (1).executor": "Run",
-    "Python.addition.executor": "Run",
-    "Python.autoclick.executor": "Run",
-    "Python.change_pct.executor": "Run",
-    "Python.col_remake.executor": "Run",
-    "Python.csv_change_name.executor": "Run",
-    "Python.csv_remake.executor": "Run",
-    "Python.cv_home.executor": "Run",
-    "Python.dashuju.executor": "Run",
-    "Python.dashuju2.executor": "Run",
-    "Python.dashuju3.executor": "Run",
-    "Python.data_deal.executor": "Run",
-    "Python.demo.executor": "Run",
-    "Python.netwarm.executor": "Run",
-    "Python.paste.executor": "Run",
-    "Python.remove_samecol.executor": "Run",
-    "Python.tempera.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.total.executor": "Run",
-    "Python.ttyrec.executor": "Run",
-    "Python.voice2text.executor": "Run",
-    "Python.voice2text_whisper.executor": "Run",
-    "Python.xhtml_deal.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/py111/stock_market-master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.sourceCode.JavaScript",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.CountLimit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataDowload (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataDowload.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataDowload11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MakeLabel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.My_hand.executor&quot;: &quot;Run&quot;,
+    &quot;Python.addition (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.addition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.autoclick.executor&quot;: &quot;Run&quot;,
+    &quot;Python.change_pct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.col_remake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csv_change_name.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csv_remake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cv_home.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dashuju.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dashuju2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dashuju3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_deal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.netwarm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.paste.executor&quot;: &quot;Run&quot;,
+    &quot;Python.remove_samecol.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tempera.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.total.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ttyrec.executor&quot;: &quot;Run&quot;,
+    &quot;Python.voice2text.executor&quot;: &quot;Run&quot;,
+    &quot;Python.voice2text_whisper.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xhtml_deal.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/py111/stock_market-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.JavaScript&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\py111\stock_market-master" />
@@ -361,7 +362,10 @@
       <workItem from="1769509080082" duration="9293000" />
       <workItem from="1769566809736" duration="603000" />
       <workItem from="1769595050969" duration="8120000" />
-      <workItem from="1769617861817" duration="16755000" />
+      <workItem from="1769617861817" duration="18434000" />
+      <workItem from="1769739230465" duration="8281000" />
+      <workItem from="1769931685712" duration="3532000" />
+      <workItem from="1770025209940" duration="4958000" />
     </task>
     <servers />
   </component>
@@ -396,7 +400,7 @@
     <SUITE FILE_PATH="coverage/stock_market_master$paste.coverage" NAME="paste 覆盖结果" MODIFIED="1747940911867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tookit" />
     <SUITE FILE_PATH="coverage/stock_market_master$dashuju3.coverage" NAME="dashuju3 覆盖结果" MODIFIED="1744952058215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nlp" />
     <SUITE FILE_PATH="coverage/stock_market_master$addition__1_.coverage" NAME="addition (1) 覆盖结果" MODIFIED="1744725073908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/stock_market_master$DataDowload11.coverage" NAME="DataDowload11 覆盖结果" MODIFIED="1769678599995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stock_market_master$DataDowload11.coverage" NAME="DataDowload11 覆盖结果" MODIFIED="1770025265776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/stock_market_master$DataDowload__1_.coverage" NAME="DataDowload (1) 覆盖结果" MODIFIED="1741945835116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/stock_market_master$DataDowload.coverage" NAME="DataDowload 覆盖结果" MODIFIED="1768835463375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/stock_market_master$netwarm.coverage" NAME="netwarm 覆盖结果" MODIFIED="1745552205723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tookit" />
